@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/media/heisenberg/Data/10moSemestre/vision_por_computadora/cv_env/bin/python3"
+	}
+}

@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# unnecessary zip files
+*.zip
+
+# unnecessary pdf files 
+*.pdf
